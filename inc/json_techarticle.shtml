@@ -1,0 +1,27 @@
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+	"@type": "TechArticle",
+		"headline": "<!--#echo var='page_title' -->",
+		"description": "<!--#echo var='meta_desc' -->",
+		"articleBody": "<!--#echo var='page_title_desc' -->",
+		"inLanguage": "de-DE",
+		"mainEntityOfPage": "<!--#echo var='domain_url' --><!--#echo var='REQUEST_URI' -->",
+		"datePublished": "<!--#echo var='date_create' -->",
+		"dateModified": "<!--#echo var='date_change' -->",
+		"keywords": "<!--#echo var='meta_keywords' -->",
+	  "author": {
+		"@type": "Person",
+		"name": "<!--#echo var='author_name' -->",
+		"url": "<!--#echo var='domain_url' --><!--#echo var='DOCUMENT_URI' -->"
+	  },
+	  "publisher": {
+		"@type": "Organization",
+		"name": "<!--#echo var='schema_publisher_name' -->",
+		"logo": {
+		  "@type": "ImageObject",
+		  "url": "<!--#echo var='schema_publisher_logo' -->"
+		}
+	  }
+    }
+    </script>
