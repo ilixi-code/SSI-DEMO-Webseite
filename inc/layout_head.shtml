@@ -1,0 +1,10 @@
+<!doctype html>
+<html lang="<!--#echo var="meta_lang" -->" data-bs-theme="auto">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="" />
+    <title><!--#echo var="site_name" --></title>
+    <link href="./css/style.css" rel="stylesheet" />
+  </head>
+  <body>
