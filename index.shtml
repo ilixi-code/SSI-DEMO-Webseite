@@ -1,0 +1,22 @@
+<!--#include virtual="./inc/vars.shtml" -->
+<!--#include virtual="./inc/layout_head.shtml" -->
+<!--#include virtual="./inc/layout_sidebar.shtml" -->
+<!--#include virtual="./inc/layout_top.shtml" -->
+
+<!-- Schema.org Daten -->
+<!--#set var="page_title" value="Überschrift" -->
+<!--#set var="meta_desc" value="Beschreibung der aktuellen Seite." -->
+<!--#set var="page_title_desc" value="Eine ausführlichere Beschreibung der aktuellen Seite." -->
+<!--#set var="date_create" value="28.08.2026" -->
+<!--#set var="date_change" value="$LAST_MODIFIED" -->
+<!--#set var="meta_keywords" value="SSI, HTML, Tutorial, Code, Webseite, Aufbau" -->
+<!--#set var="author_name" value="Author Name" -->
+
+<h1>Überschrift</h1>
+<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+<p><a href="#">Continue reading...</a></p>
+
+<!--#include virtual="./inc/json_techarticle.shtml" -->
+
+<!--#include virtual="./inc/layout_bottom.shtml" -->
+<!--#include virtual="./inc/layout_footer.shtml" -->
