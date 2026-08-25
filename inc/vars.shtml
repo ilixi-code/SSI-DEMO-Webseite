@@ -1,0 +1,9 @@
+<!--#set var="site_name" value="Webseite Name" -->
+<!--#set var="domain_url" value="https://domains.de" -->
+<!--#set var="site_title" value="Meine Webseite" -->
+<!--#set var="current_year" value="2026" -->
+<!--#set var="meta_lang" value="de" -->
+
+<!--#config timefmt="%d.%m.%Y" -->
+<!--#set var="schema_publisher_name" value="Plublisher Name" -->
+<!--#set var="schema_publisher_logo" value="https://domain.de/assets/img/logo.pnp" -->
