@@ -1,0 +1,12 @@
+    <main class="main-content">
+        
+        <div class="header">
+            <div>
+                <h1>Dashboard</h1>
+                <p style="color: var(--text-muted); font-size: 0.9rem;">Willkommen zum Projektname</p>
+            </div>
+            <div>
+                <a href="#" class="btn">+ Neue Rechnung erstellen</a>
+            </div>
+        </div>
+        <div class="card">
